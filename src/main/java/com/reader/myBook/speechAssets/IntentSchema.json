@@ -1,0 +1,33 @@
+{
+  "intents": [
+    {
+      "intent": "GetVerseLocationIntent",
+      "slots": [
+        {
+          "name": "book",
+          "type": "String"
+        },
+        {
+          "name": "chapter",
+          "type": "String"
+        },
+        {
+          "name": "verse",
+          "type": "String"
+        }
+      ]
+    },
+    {
+      "intent": "GetNextEventIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "FinishIntent",
+      "slots": []
+    }
+  ]
+}

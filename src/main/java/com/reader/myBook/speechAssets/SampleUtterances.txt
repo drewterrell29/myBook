@@ -1,0 +1,1 @@
+GetVerseLocationIntent read the bible {book} chapter {chapter} verse {verse}
